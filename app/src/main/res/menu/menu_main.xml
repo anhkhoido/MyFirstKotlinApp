@@ -10,13 +10,13 @@
     <item
         android:id="@+id/accessibility_custom_action_0"
         android:orderInCategory="101"
-        android:title="Credit"
+        android:title="@string/action_credit"
         app:showAsAction="never"
         />
     <item
         android:id="@+id/accessibility_custom_action_1"
         android:orderInCategory="102"
-        android:title="Contact"
+        android:title="@string/action_contact"
         app:showAsAction="never"
         />
 </menu>
