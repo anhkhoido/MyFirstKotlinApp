@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My First Kotlin App</string>
+    <string name="action_contact">Liên lạc</string>
+    <string name="next">Kế tiếp</string>
+    <string name="previous">Trước</string>
+    <string name="action_credit">Credit</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="hello_first_fragment">Chào 1</string>
+    <string name="hello_second_fragment">Chào 2. Arg: %1$s</string>
+    <string name="first_fragment_label">Fragment dầu tiên</string>
+    <string name="second_fragment_label">Fragment thứ hai</string>
+</resources>
