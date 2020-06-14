@@ -11,4 +11,5 @@
     <string name="hello_first_fragment">Bonjour premier fragment</string>
     <string name="hello_second_fragment">Bonjour deuxième fragment. Arg: %1$s</string>
     <string name="email">Courriel</string>
+    <string name="enter_message">Ecrivez votre message</string>
 </resources>
