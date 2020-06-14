@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.anhkhoido.myapplication.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/accessibility_custom_action_0"
+        android:orderInCategory="101"
+        android:title="Credit"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/accessibility_custom_action_1"
+        android:orderInCategory="102"
+        android:title="Contact"
+        app:showAsAction="never"
+        />
+</menu>
