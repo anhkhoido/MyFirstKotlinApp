@@ -10,4 +10,7 @@
     <string name="hello_second_fragment">Chào 2. Arg: %1$s</string>
     <string name="first_fragment_label">Fragment dầu tiên</string>
     <string name="second_fragment_label">Fragment thứ hai</string>
+    <string name="email">Email</string>
+    <string name="enter_message">Viết tin nhắn</string>
+    <string name="send_email">Gửi</string>
 </resources>
