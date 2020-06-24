@@ -2,6 +2,7 @@ package com.anhkhoido.myapplication
 
 import android.content.Intent
 import android.os.Bundle
+import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 import android.view.Menu
 import android.view.MenuItem
@@ -20,6 +21,7 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, LobbyActivity::class.java)
             startActivity(intent)
         }
+        Log.i("Intents", "Action = ${intent.action}")
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
