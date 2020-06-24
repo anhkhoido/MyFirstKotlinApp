@@ -13,4 +13,5 @@
     <string name="email">Courriel</string>
     <string name="enter_message">Ecrivez votre message</string>
     <string name="send_email">Envoyer</string>
+    <string name="enter_the_lobby">La réception</string>
 </resources>
